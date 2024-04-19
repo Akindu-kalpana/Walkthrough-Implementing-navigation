@@ -1,4 +1,4 @@
-package com.example.walkthroughimplementingnavigation.ui.theme
+package com.example.sc_impl.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
